@@ -193,3 +193,59 @@ button{
     line-height: 20px;
     color: #627382;
 }
+#design{
+    margin: 0 auto;
+
+}
+
+.design-content{
+    display: flex;
+   
+    width: 1360px;
+    align-items: center;
+    gap: 50px;
+    height: 500px;
+
+    margin: 0 auto;
+    justify-content: center;
+
+}
+.text-container{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.list-items{
+    
+    display: flex;
+    max-width: max-content;
+    gap: 5px;
+}
+#span{
+    color: #469165;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 20px;
+}
+.text-container h2{
+    font-size: 48px;
+    font-weight: bold;
+}
+.text-container .text{
+    font-size: 16px;
+    color: #627382;
+    line-height: 25px;
+    text-align: left;
+}
+.text-container .list-items{
+    font-size: 16px;
+    line-height: 20px;
+    color: #001931;
+}
+.image-container img{
+    min-width: 600px;
+    margin-top: 120px;
+}
+.text-container{
+    margin-top: 120px;
+}
