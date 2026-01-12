@@ -38,7 +38,7 @@ nav{
 #banner{
     
     max-width: 1600px;
-    background-image: url("/images/hero-bg.png");
+    background-image: url("../images/hero-bg.png");
     background-size: cover;
     display: flex;
     align-items: center;
@@ -77,7 +77,7 @@ margin: 120px auto;
   border-radius: 60px;
   color: #22c55e;
   background-color: #FFFFFF;
-  font-size: 14 px;
+  font-size: 14px;
   font-weight: 600;
   margin-bottom: 16x;
   max-width: max-content;
